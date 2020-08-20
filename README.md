@@ -1,6 +1,9 @@
 # my-universe:
 a solar system implementation using ** three.js ** and ** WebGL **
 
+## demo
+![Aaron Swartz]()
+
 ## let's go
 * Be sure to have [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed.
 * `git pull` to copy the repository
