@@ -1,5 +1,5 @@
 # my-universe:
-a solar system implementation using ** three.js ** and ** WebGL **
+a solar system implementation using **three.js** and **WebGL**
 
 ## demo
 ![Aaron Swartz](https://github.com/hannak016/my-universe/blob/master/demo%20universe.png)
