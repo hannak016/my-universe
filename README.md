@@ -2,7 +2,7 @@
 a solar system implementation using ** three.js ** and ** WebGL **
 
 ## demo
-![Aaron Swartz]()
+![Aaron Swartz](https://github.com/hannak016/my-universe/blob/master/demo%20universe.png)
 
 ## let's go
 * Be sure to have [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed.
